@@ -5,6 +5,7 @@
   <a href="https://github.com/iloveyellowcakes">
   <img align="" height="180em" width="40%" src="https://github-readme-stats.vercel.app/api?username=iloveyellowcakes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img  height="180em" width="29%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iloveyellowcakes&layout=compact&/&theme=dracula">
+
    
   <img align="right" alt="Dani-pic" height="180em" style="" src="https://cdn.discordapp.com/attachments/521831302672941068/923345022290628608/download20211203193341.png?width=676&height=676">
     
